@@ -1,0 +1,45 @@
+body {
+  background-color: #f4f6f9;
+}
+
+.app {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.app-title {
+  text-align: center;
+  color: #1f3a5f;
+  margin-bottom: 2rem;
+}
+
+.health-section {
+  margin-bottom: 1rem;
+}
+
+.health-box {
+  background-color: #e6f7ec;
+  border-left: 6px solid #2e9e5b;
+  border-radius: 8px;
+  padding: 1rem 1.5rem;
+}
+
+.health-box h4 {
+  color: #1d6b3d;
+  margin-bottom: 0.5rem;
+}
+
+.health-box p {
+  margin: 0;
+  color: #333;
+}
+
+.health-error {
+  background-color: #fdecea;
+  border-left-color: #d93025;
+}
+
+.health-error h4 {
+  color: #a0231a;
+}
